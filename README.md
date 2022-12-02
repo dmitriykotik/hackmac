@@ -1,2 +1,4 @@
 # Как вы тут оказались?
-<button> На главную </button>
+<button a href="https://vk.com/"> На главную </button>
+
+Updated
